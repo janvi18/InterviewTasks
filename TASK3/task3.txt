@@ -1,0 +1,13 @@
+Create API like in task 2 and implement following CURD operations:
+› Create user
+Method: POST
+Path: /users
+-> Get users
+Method: GET path: /users
+-> Get user
+-> Method: GET
+Path: /users/(id)
+Here you have to create it in Mongodb.
+It can be in local
+Or any cloud instance as well
+You can use mongoose as well

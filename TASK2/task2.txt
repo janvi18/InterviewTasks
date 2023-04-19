@@ -1,0 +1,5 @@
+Create a simple node script to perform the following (we'll use https://reqres.in/)
+Get all user user (GET https://reqres.in/api/users)
+Find first user whose name start with 'a (ignore case)
+And update its job title to be boss (POST https://reqres.in/api/users/{id))
+the delete all other user in parallel (DELETE https://reqres.in/api/users/{id])
